@@ -9,6 +9,7 @@
 # IDE-related
 .vscode
 *.code-workspace
+data/
 
 # Saved session files from client logins
 *.session
